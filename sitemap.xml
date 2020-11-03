@@ -4,141 +4,148 @@ xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitem
 xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
 <url>
-<loc>/</loc>
-<lastmod>2020-11-01T21:07:24-00:00</lastmod>
+<loc>https://8kplays.ml/</loc>
+<lastmod>2020-11-03T19:59:28-00:00</lastmod>
 <changefreq>weekly</changefreq>
 <priority>0.6</priority>
 </url>
 
 <url>
-<loc>/tags.html</loc>
-<lastmod>2020-11-01T21:07:24-00:00</lastmod>
+<loc>https://8kplays.ml/tags.html</loc>
+<lastmod>2020-11-03T19:59:28-00:00</lastmod>
 <changefreq>weekly</changefreq>
 <priority>0.6</priority>
 </url>
 
 <url>
-<loc>/categories.html</loc>
-<lastmod>2020-11-01T21:07:24-00:00</lastmod>
+<loc>https://8kplays.ml/categories.html</loc>
+<lastmod>2020-11-03T19:59:28-00:00</lastmod>
 <changefreq>weekly</changefreq>
 <priority>0.6</priority>
 </url>
 
 <url>
-<loc>/authors.html</loc>
-<lastmod>2020-11-01T21:07:24-00:00</lastmod>
+<loc>https://8kplays.ml/authors.html</loc>
+<lastmod>2020-11-03T19:59:28-00:00</lastmod>
 <changefreq>weekly</changefreq>
 <priority>0.6</priority>
 </url>
 
 <url>
-<loc>/archives.html</loc>
-<lastmod>2020-11-01T21:07:24-00:00</lastmod>
+<loc>https://8kplays.ml/archives.html</loc>
+<lastmod>2020-11-03T19:59:28-00:00</lastmod>
 <changefreq>weekly</changefreq>
 <priority>0.6</priority>
 </url>
 
 <url>
-<loc>/pages/about-us.html</loc>
+<loc>https://8kplays.ml/pages/about-us.html</loc>
 <lastmod>2020-10-11T19:49:00+05:30</lastmod>
 <changefreq>weekly</changefreq>
 <priority>0.6</priority>
 </url>
 
 <url>
-<loc>/football-quotes.html</loc>
-<lastmod>2020-11-01T18:20:00+05:30</lastmod>
+<loc>https://8kplays.ml/love-football-quotes.html</loc>
+<lastmod>2020-11-05T14:05:00+05:30</lastmod>
 <changefreq>weekly</changefreq>
 <priority>0.6</priority>
 </url>
 
 <url>
-<loc>/hiking-quotes-to-motivated.html</loc>
+<loc>https://8kplays.ml/hiking-quotes-to-motivated.html</loc>
 <lastmod>2020-10-29T18:20:00+05:30</lastmod>
 <changefreq>weekly</changefreq>
 <priority>0.6</priority>
 </url>
 
 <url>
-<loc>/cricket-quotes-to-motivate-you.html</loc>
+<loc>https://8kplays.ml/cricket-quotes-to-motivate-you.html</loc>
 <lastmod>2020-10-26T10:20:00+05:30</lastmod>
 <changefreq>weekly</changefreq>
 <priority>0.6</priority>
 </url>
 
 <url>
-<loc>/category/cricket.html</loc>
+<loc>https://8kplays.ml/category/cricket.html</loc>
 <lastmod>2020-10-26T10:20:00+05:53</lastmod>
 <changefreq>weekly</changefreq>
 <priority>0.6</priority>
 </url>
 
 <url>
-<loc>/category/football.html</loc>
-<lastmod>2020-11-01T18:20:00+05:53</lastmod>
+<loc>https://8kplays.ml/category/football.html</loc>
+<lastmod>2020-11-05T14:05:00+05:53</lastmod>
 <changefreq>weekly</changefreq>
 <priority>0.6</priority>
 </url>
 
 <url>
-<loc>/category/hiking.html</loc>
+<loc>https://8kplays.ml/category/hiking.html</loc>
 <lastmod>2020-10-29T18:20:00+05:53</lastmod>
 <changefreq>weekly</changefreq>
 <priority>0.6</priority>
 </url>
 
 <url>
-<loc>/tag/football.html</loc>
-<lastmod>2020-11-01T18:20:00+05:53</lastmod>
+<loc>https://8kplays.ml/tag/football.html</loc>
+<lastmod>2020-11-05T14:05:00+05:53</lastmod>
 <changefreq>weekly</changefreq>
 <priority>0.6</priority>
 </url>
 
 <url>
-<loc>/tag/hiking.html</loc>
+<loc>https://8kplays.ml/tag/love.html</loc>
+<lastmod>2020-11-05T14:05:00+05:53</lastmod>
+<changefreq>weekly</changefreq>
+<priority>0.6</priority>
+</url>
+
+<url>
+<loc>https://8kplays.ml/tag/hiking.html</loc>
 <lastmod>2020-10-29T18:20:00+05:53</lastmod>
 <changefreq>weekly</changefreq>
 <priority>0.6</priority>
 </url>
 
 <url>
-<loc>/tag/trekking.html</loc>
+<loc>https://8kplays.ml/tag/trekking.html</loc>
 <lastmod>2020-10-29T18:20:00+05:53</lastmod>
 <changefreq>weekly</changefreq>
 <priority>0.6</priority>
 </url>
 
 <url>
-<loc>/tag/quotes.html</loc>
+<loc>https://8kplays.ml/tag/quotes.html</loc>
 <lastmod>2020-10-29T18:20:00+05:53</lastmod>
 <changefreq>weekly</changefreq>
 <priority>0.6</priority>
 </url>
 
 <url>
-<loc>/tag/motivation.html</loc>
+<loc>https://8kplays.ml/tag/motivation.html</loc>
 <lastmod>2020-10-29T18:20:00+05:53</lastmod>
 <changefreq>weekly</changefreq>
 <priority>0.6</priority>
 </url>
 
 <url>
-<loc>/tag/friends.html</loc>
+<loc>https://8kplays.ml/tag/friends.html</loc>
 <lastmod>2020-10-29T18:20:00+05:53</lastmod>
 <changefreq>weekly</changefreq>
 <priority>0.6</priority>
 </url>
 
 <url>
-<loc>/tag/cricket.html</loc>
+<loc>https://8kplays.ml/tag/cricket.html</loc>
 <lastmod>2020-10-26T10:20:00+05:53</lastmod>
 <changefreq>weekly</changefreq>
 <priority>0.6</priority>
 </url>
 
 <url>
-<loc>/author/8kplays.html</loc>
-<lastmod>2020-11-01T18:20:00+05:53</lastmod>
+<loc>https://8kplays.ml/author/8kplays.html</loc>
+<lastmod>2020-11-05T14:05:00+05:53</lastmod>
 <changefreq>weekly</changefreq>
 <priority>0.6</priority>
 </url>
