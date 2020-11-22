@@ -5,35 +5,35 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
 <url>
 <loc>https://8kplays.ml/</loc>
-<lastmod>2020-11-20T22:19:03-00:00</lastmod>
+<lastmod>2020-11-22T17:27:50-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.6</priority>
 </url>
 
 <url>
 <loc>https://8kplays.ml/tags.html</loc>
-<lastmod>2020-11-20T22:19:03-00:00</lastmod>
+<lastmod>2020-11-22T17:27:50-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.6</priority>
 </url>
 
 <url>
 <loc>https://8kplays.ml/categories.html</loc>
-<lastmod>2020-11-20T22:19:03-00:00</lastmod>
+<lastmod>2020-11-22T17:27:50-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.6</priority>
 </url>
 
 <url>
 <loc>https://8kplays.ml/authors.html</loc>
-<lastmod>2020-11-20T22:19:03-00:00</lastmod>
+<lastmod>2020-11-22T17:27:50-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.6</priority>
 </url>
 
 <url>
 <loc>https://8kplays.ml/archives.html</loc>
-<lastmod>2020-11-20T22:19:03-00:00</lastmod>
+<lastmod>2020-11-22T17:27:50-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.6</priority>
 </url>
@@ -41,6 +41,13 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 <url>
 <loc>https://8kplays.ml/pages/about-us.html</loc>
 <lastmod>2020-10-11T19:49:00+05:30</lastmod>
+<changefreq>daily</changefreq>
+<priority>0.6</priority>
+</url>
+
+<url>
+<loc>https://8kplays.ml/sports-quotes-for-motivation.html</loc>
+<lastmod>2020-11-23T08:47:00+05:30</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.6</priority>
 </url>
@@ -88,6 +95,34 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 </url>
 
 <url>
+<loc>https://8kplays.ml/category/sports.html</loc>
+<lastmod>2020-11-23T08:47:00+05:53</lastmod>
+<changefreq>daily</changefreq>
+<priority>0.6</priority>
+</url>
+
+<url>
+<loc>https://8kplays.ml/tag/sports.html</loc>
+<lastmod>2020-11-23T08:47:00+05:53</lastmod>
+<changefreq>daily</changefreq>
+<priority>0.6</priority>
+</url>
+
+<url>
+<loc>https://8kplays.ml/tag/quotes.html</loc>
+<lastmod>2020-11-23T08:47:00+05:53</lastmod>
+<changefreq>daily</changefreq>
+<priority>0.6</priority>
+</url>
+
+<url>
+<loc>https://8kplays.ml/tag/motivation.html</loc>
+<lastmod>2020-11-23T08:47:00+05:53</lastmod>
+<changefreq>daily</changefreq>
+<priority>0.6</priority>
+</url>
+
+<url>
 <loc>https://8kplays.ml/tag/football.html</loc>
 <lastmod>2020-11-05T14:05:00+05:53</lastmod>
 <changefreq>daily</changefreq>
@@ -116,20 +151,6 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 </url>
 
 <url>
-<loc>https://8kplays.ml/tag/quotes.html</loc>
-<lastmod>2020-10-29T18:20:00+05:53</lastmod>
-<changefreq>daily</changefreq>
-<priority>0.6</priority>
-</url>
-
-<url>
-<loc>https://8kplays.ml/tag/motivation.html</loc>
-<lastmod>2020-10-29T18:20:00+05:53</lastmod>
-<changefreq>daily</changefreq>
-<priority>0.6</priority>
-</url>
-
-<url>
 <loc>https://8kplays.ml/tag/friends.html</loc>
 <lastmod>2020-10-29T18:20:00+05:53</lastmod>
 <changefreq>daily</changefreq>
@@ -145,7 +166,7 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
 <url>
 <loc>https://8kplays.ml/author/8kplays.html</loc>
-<lastmod>2020-11-05T14:05:00+05:53</lastmod>
+<lastmod>2020-11-23T08:47:00+05:53</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.6</priority>
 </url>
