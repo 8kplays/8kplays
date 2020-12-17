@@ -5,35 +5,35 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
 <url>
 <loc>https://8kplays.ml/</loc>
-<lastmod>2020-12-03T17:48:21-00:00</lastmod>
+<lastmod>2020-12-17T19:45:36-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.6</priority>
 </url>
 
 <url>
 <loc>https://8kplays.ml/tags.html</loc>
-<lastmod>2020-12-03T17:48:21-00:00</lastmod>
+<lastmod>2020-12-17T19:45:36-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.6</priority>
 </url>
 
 <url>
 <loc>https://8kplays.ml/categories.html</loc>
-<lastmod>2020-12-03T17:48:21-00:00</lastmod>
+<lastmod>2020-12-17T19:45:36-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.6</priority>
 </url>
 
 <url>
 <loc>https://8kplays.ml/authors.html</loc>
-<lastmod>2020-12-03T17:48:21-00:00</lastmod>
+<lastmod>2020-12-17T19:45:36-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.6</priority>
 </url>
 
 <url>
 <loc>https://8kplays.ml/archives.html</loc>
-<lastmod>2020-12-03T17:48:21-00:00</lastmod>
+<lastmod>2020-12-17T19:45:36-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.6</priority>
 </url>
@@ -74,13 +74,6 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 </url>
 
 <url>
-<loc>https://8kplays.ml/not-found.html</loc>
-<lastmod>2020-09-26T10:20:00+05:30</lastmod>
-<changefreq>daily</changefreq>
-<priority>0.6</priority>
-</url>
-
-<url>
 <loc>https://8kplays.ml/category/cricket.html</loc>
 <lastmod>2020-10-26T10:20:00+05:53</lastmod>
 <changefreq>daily</changefreq>
@@ -97,13 +90,6 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 <url>
 <loc>https://8kplays.ml/category/hiking.html</loc>
 <lastmod>2020-10-29T18:20:00+05:53</lastmod>
-<changefreq>daily</changefreq>
-<priority>0.6</priority>
-</url>
-
-<url>
-<loc>https://8kplays.ml/category/misc.html</loc>
-<lastmod>2020-09-26T10:20:00+05:53</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.6</priority>
 </url>
