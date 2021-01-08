@@ -5,35 +5,35 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
 <url>
 <loc>https://8kplays.ml/</loc>
-<lastmod>2021-01-07T22:12:30-00:00</lastmod>
+<lastmod>2021-01-08T16:18:47-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.6</priority>
 </url>
 
 <url>
 <loc>https://8kplays.ml/tags.html</loc>
-<lastmod>2021-01-07T22:12:30-00:00</lastmod>
+<lastmod>2021-01-08T16:18:47-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.6</priority>
 </url>
 
 <url>
 <loc>https://8kplays.ml/categories.html</loc>
-<lastmod>2021-01-07T22:12:30-00:00</lastmod>
+<lastmod>2021-01-08T16:18:47-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.6</priority>
 </url>
 
 <url>
 <loc>https://8kplays.ml/authors.html</loc>
-<lastmod>2021-01-07T22:12:30-00:00</lastmod>
+<lastmod>2021-01-08T16:18:47-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.6</priority>
 </url>
 
 <url>
 <loc>https://8kplays.ml/archives.html</loc>
-<lastmod>2021-01-07T22:12:30-00:00</lastmod>
+<lastmod>2021-01-08T16:18:47-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.6</priority>
 </url>
@@ -41,6 +41,13 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 <url>
 <loc>https://8kplays.ml/pages/about-us.html</loc>
 <lastmod>2020-10-11T19:49:00+05:30</lastmod>
+<changefreq>daily</changefreq>
+<priority>0.6</priority>
+</url>
+
+<url>
+<loc>https://8kplays.ml/badminton-quotes.html</loc>
+<lastmod>2021-01-08T12:45:00+05:30</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.6</priority>
 </url>
@@ -95,6 +102,13 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 </url>
 
 <url>
+<loc>https://8kplays.ml/category/badminton.html</loc>
+<lastmod>2021-01-08T12:45:00+05:53</lastmod>
+<changefreq>daily</changefreq>
+<priority>0.6</priority>
+</url>
+
+<url>
 <loc>https://8kplays.ml/category/cricket.html</loc>
 <lastmod>2020-10-26T10:20:00+05:53</lastmod>
 <changefreq>daily</changefreq>
@@ -130,21 +144,21 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 </url>
 
 <url>
+<loc>https://8kplays.ml/tag/badminton.html</loc>
+<lastmod>2021-01-08T12:45:00+05:53</lastmod>
+<changefreq>daily</changefreq>
+<priority>0.6</priority>
+</url>
+
+<url>
+<loc>https://8kplays.ml/tag/quote.html</loc>
+<lastmod>2021-01-08T12:45:00+05:53</lastmod>
+<changefreq>daily</changefreq>
+<priority>0.6</priority>
+</url>
+
+<url>
 <loc>https://8kplays.ml/tag/archery.html</loc>
-<lastmod>2021-01-07T15:23:00+05:53</lastmod>
-<changefreq>daily</changefreq>
-<priority>0.6</priority>
-</url>
-
-<url>
-<loc>https://8kplays.ml/tag/bow.html</loc>
-<lastmod>2021-01-07T15:23:00+05:53</lastmod>
-<changefreq>daily</changefreq>
-<priority>0.6</priority>
-</url>
-
-<url>
-<loc>https://8kplays.ml/tag/arrow.html</loc>
 <lastmod>2021-01-07T15:23:00+05:53</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.6</priority>
@@ -158,28 +172,7 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 </url>
 
 <url>
-<loc>https://8kplays.ml/tag/swimming-pool.html</loc>
-<lastmod>2021-01-06T20:58:00+05:53</lastmod>
-<changefreq>daily</changefreq>
-<priority>0.6</priority>
-</url>
-
-<url>
 <loc>https://8kplays.ml/tag/sports.html</loc>
-<lastmod>2020-11-23T08:47:00+05:53</lastmod>
-<changefreq>daily</changefreq>
-<priority>0.6</priority>
-</url>
-
-<url>
-<loc>https://8kplays.ml/tag/quotes.html</loc>
-<lastmod>2020-11-23T08:47:00+05:53</lastmod>
-<changefreq>daily</changefreq>
-<priority>0.6</priority>
-</url>
-
-<url>
-<loc>https://8kplays.ml/tag/motivation.html</loc>
 <lastmod>2020-11-23T08:47:00+05:53</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.6</priority>
@@ -193,28 +186,7 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 </url>
 
 <url>
-<loc>https://8kplays.ml/tag/love.html</loc>
-<lastmod>2020-11-05T14:05:00+05:53</lastmod>
-<changefreq>daily</changefreq>
-<priority>0.6</priority>
-</url>
-
-<url>
 <loc>https://8kplays.ml/tag/hiking.html</loc>
-<lastmod>2020-10-29T18:20:00+05:53</lastmod>
-<changefreq>daily</changefreq>
-<priority>0.6</priority>
-</url>
-
-<url>
-<loc>https://8kplays.ml/tag/trekking.html</loc>
-<lastmod>2020-10-29T18:20:00+05:53</lastmod>
-<changefreq>daily</changefreq>
-<priority>0.6</priority>
-</url>
-
-<url>
-<loc>https://8kplays.ml/tag/friends.html</loc>
 <lastmod>2020-10-29T18:20:00+05:53</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.6</priority>
@@ -229,7 +201,7 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
 <url>
 <loc>https://8kplays.ml/author/8kplays.html</loc>
-<lastmod>2021-01-07T15:23:00+05:53</lastmod>
+<lastmod>2021-01-08T12:45:00+05:53</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.6</priority>
 </url>
