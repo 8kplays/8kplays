@@ -1,4 +1,7 @@
 User-agent: *
-Allow: /
+Disallow: /tag/
+Disallow: /feeds/
+Disallow: /category/
+Allow: /tag/quotes.html
 
 Sitemap: https://8kplays.ml/sitemap.xml
